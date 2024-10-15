@@ -1,0 +1,10 @@
+Impliment Task Trees
+
+		NewTask1
+		    |
+		   / \	
+	smaller task1  smallerTask2
+
+Task Prio, Red Green Blue
+
+Task Time Consumption.
