@@ -1,0 +1,6 @@
+[submodule "productifyclient"]
+	path = productifyclient
+	url = https://github.com/TheCodeBrah/productifyclient.git
+[submodule "productifyserver"]
+	path = productifyserver
+	url = https://github.com/TheCodeBrah/productifyserver.git
